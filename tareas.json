@@ -1,0 +1,15 @@
+[
+    {
+        "materia": "programacion",
+        "estado" : "en progreso"
+         
+        },
+    {
+        "materia": "ingles",
+        "estado" : "terminado"
+    },
+    {
+        "materia": "empleabilidad",
+        "estado" : "pendiente"
+    }
+]
